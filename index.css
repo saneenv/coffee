@@ -1,0 +1,25 @@
+header{
+    float: right;
+    background-color: black;
+    
+}
+a{
+    padding: 20px;
+    color: white;
+}
+button{
+    background-color: white;
+
+}
+.y1{
+    height: 200px;
+    width: 200px;
+}
+.o1{
+    height: 200px;
+    width: 200px;
+    margin-left: 600px;
+}
+div{
+    background-color:blanchedalmond
+}
