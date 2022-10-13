@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Candal&family=Noto+Sans+JP&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Candal&family=Lobster&family=Noto+Sans+JP&family=Permanent+Marker&family=Roboto&family=Roboto+Condensed:ital,wght@0,300;1,300&display=swap');
 header{
     float: right;
     background-color: black;
@@ -8,7 +8,7 @@ header{
 
     
 }
-a{
+.l1{
     padding: 20px;
     color: white;
 }
@@ -36,6 +36,7 @@ button{
 }
 .u1{
     width: 100%;
+    filter: brightness(40%);
 }
 body{
     margin: 0%;
@@ -46,5 +47,141 @@ body{
     color: white;
     font-family: 'Candal', sans-serif;
     font-size: 50px;
+    position: absolute;
 }
+.m1{
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    
+
+     
+
+}
+#one{
+    
+    text-decoration: none;
+    margin-left: 3%;
+    margin-top: 97px;
+    color: white;
+    padding: 10px;
+    position: absolute;
+}
+#two{
+    
+    text-decoration: none;
+    margin-left: 17%;
+    margin-top: 97px;
+    color: white;
+    padding: 10px;
+    position: absolute;
+}
+#three{
+    
+    text-decoration: none;
+    margin-left: 31%;
+    margin-top: 97px;
+    color: white;
+    padding: 10px;
+    position: absolute;
+}
+#four{
+    
+   
+    text-decoration: none;
+    margin-left: 59%;
+    margin-top: 97px;
+    color: white;
+    padding: 10px;
+    position: absolute;
+}
+#four{
+    
+   
+    text-decoration: none;
+    margin-left: 59%;
+    margin-top: 97px;
+    color: white;
+    padding: 10px;
+    position: absolute;
+}
+#five{
+    
+   
+    text-decoration: none;
+    margin-left: 69%;
+    margin-top: 97px;
+    color: white;
+    padding: 10px;
+    position: absolute;
+}
+#six{
+    
+   
+    text-decoration: none;
+    margin-left: 82%;
+    margin-top: 99px;
+    color: white;
+    padding: 10px;
+    position: absolute;
+}
+.CO1{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    color: white;
+    margin-top: -25px;
+
+}
+#co1{
+    margin-top: 169px;
+    margin-left: 691px;
+    font-family: 'Permanent Marker', cursive;
+   position: absolute;
+   font-size: 50px;
+}
+#co2{
+    margin-top: 273px;
+    margin-left: 495px;
+    font-family: 'Candal', sans-serif;
+    position: absolute;
+    font-size: 25px;
+}
+.row{
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    color: white;
+}
+.col{
+    width: 25%;
+    height: 500px;
+    float: left;
+    background-color: black;
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 20px;
+    
+
+}
+.imu{
+    width: 100%;
+    height: 363px;
+    float: left;
+   
+}
+.ma{
+    text-align: center;
+}
+#BUT1{
+    margin-left: 652px;
+    background-color: rgb(103, 243, 85);
+    color: aliceblue;
+    font-size: 30px;
+
+}
+
+
+
+
+
    
