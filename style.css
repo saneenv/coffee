@@ -1,29 +1,32 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Candal&family=Lato:ital,wght@1,100&family=Lobster&family=Noto+Sans+JP&family=Permanent+Marker&family=Roboto&family=Roboto+Condensed:ital,wght@0,300;1,300&display=swap');
-header{
+
+header {
     float: right;
     background-color: black;
-    width: 100%; 
-    padding:10px;
+    width: 100%;
+    padding: 10px;
 
-    
+
 }
-.l1{
+
+.l1 {
     padding: 20px;
     color: white;
 }
-button{
+
+button {
     background-color: white;
 
 }
-.y1{
+
+.y1 {
     height: 200px;
     width: 100%;
-    background-color:black;
+    background-color: black;
 }
 
 
-.o1{
+.o1 {
     height: 197px;
     width: 226px;
     margin-left: 713px;
@@ -31,17 +34,20 @@ button{
 }
 
 
-#head{
+#head {
     float: right;
 }
-.u1{
+
+.u1 {
     width: 100%;
     filter: brightness(40%);
 }
-body{
+
+body {
     margin: 0%;
 }
-#b3{
+
+#b3 {
     margin-left: 7%;
     margin-top: -46%;
     color: white;
@@ -49,16 +55,18 @@ body{
     font-size: 50px;
     position: absolute;
 }
-.m1{
+
+.m1 {
     color: white;
     font-family: 'Permanent Marker', cursive;
-    
 
-     
+
+
 
 }
-#one{
-    
+
+#one {
+
     text-decoration: none;
     margin-left: 3%;
     margin-top: 97px;
@@ -66,8 +74,9 @@ body{
     padding: 10px;
     position: absolute;
 }
-#two{
-    
+
+#two {
+
     text-decoration: none;
     margin-left: 17%;
     margin-top: 97px;
@@ -75,8 +84,9 @@ body{
     padding: 10px;
     position: absolute;
 }
-#three{
-    
+
+#three {
+
     text-decoration: none;
     margin-left: 31%;
     margin-top: 97px;
@@ -84,9 +94,10 @@ body{
     padding: 10px;
     position: absolute;
 }
-#four{
-    
-   
+
+#four {
+
+
     text-decoration: none;
     margin-left: 59%;
     margin-top: 97px;
@@ -94,9 +105,10 @@ body{
     padding: 10px;
     position: absolute;
 }
-#four{
-    
-   
+
+#four {
+
+
     text-decoration: none;
     margin-left: 59%;
     margin-top: 97px;
@@ -104,9 +116,10 @@ body{
     padding: 10px;
     position: absolute;
 }
-#five{
-    
-   
+
+#five {
+
+
     text-decoration: none;
     margin-left: 69%;
     margin-top: 97px;
@@ -114,9 +127,10 @@ body{
     padding: 10px;
     position: absolute;
 }
-#six{
-    
-   
+
+#six {
+
+
     text-decoration: none;
     margin-left: 82%;
     margin-top: 99px;
@@ -124,7 +138,8 @@ body{
     padding: 10px;
     position: absolute;
 }
-.CO1{
+
+.CO1 {
     width: 100%;
     height: 400px;
     background-color: black;
@@ -132,27 +147,31 @@ body{
     margin-top: -25px;
 
 }
-#co1{
+
+#co1 {
     margin-top: 169px;
     margin-left: 691px;
     font-family: 'Permanent Marker', cursive;
-   position: absolute;
-   font-size: 50px;
+    position: absolute;
+    font-size: 50px;
 }
-#co2{
+
+#co2 {
     margin-top: 273px;
     margin-left: 495px;
     font-family: 'Candal', sans-serif;
     position: absolute;
     font-size: 25px;
 }
-.row{
+
+.row {
     width: 100%;
     height: 700px;
     background-color: black;
     color: white;
 }
-.col{
+
+.col {
     width: 25%;
     height: 500px;
     float: left;
@@ -160,19 +179,22 @@ body{
     color: white;
     font-family: 'Permanent Marker', cursive;
     font-size: 20px;
-    
+
 
 }
-.imu{
+
+.imu {
     width: 100%;
     height: 363px;
     float: left;
-   
+
 }
-.ma{
+
+.ma {
     text-align: center;
 }
-#BUT1{
+
+#BUT1 {
     margin-left: 652px;
     background-color: grey;
     color: black;
@@ -180,19 +202,23 @@ body{
     font-family: 'Candal', sans-serif;
 
 }
-#BUT1:hover{
+
+#BUT1:hover {
     color: white;
-    background-color:rgb(171, 241, 66) ;
+    background-color: rgb(171, 241, 66);
 }
-.head2{
+
+.head2 {
     width: 100%;
     height: 200px;
 }
-#head2{
+
+#head2 {
     width: 100%;
     filter: brightness(30%);
 }
-#po1{
+
+#po1 {
     margin-left: 39%;
     margin-top: -59%;
     color: white;
@@ -200,7 +226,8 @@ body{
     font-size: 50px;
     position: absolute;
 }
-#po2{
+
+#po2 {
     margin-top: -891px;
     margin-left: 414px;
     font-family: 'Lato', sans-serif;
@@ -209,7 +236,8 @@ body{
     color: white;
 
 }
-#vv1{
+
+#vv1 {
     margin-top: -593px;
     margin-left: 167px;
     font-family: 'Candal', sans-serif;
@@ -217,14 +245,16 @@ body{
     font-size: 30px;
     color: white;
 }
-#vv2{
+
+#vv2 {
     width: 30%;
     height: 350px;
     margin-top: 41%;
     margin-left: -92%;
     position: absolute;
 }
-#vv3{
+
+#vv3 {
     margin-top: -592px;
     margin-left: 980px;
     font-family: 'Candal', sans-serif;
@@ -232,24 +262,28 @@ body{
     font-size: 30px;
     color: white;
 }
-#vv4{
+
+#vv4 {
     width: 30%;
     height: 350px;
     margin-top: 41%;
     margin-left: -44%;
     position: absolute;
 }
-.moo1{
+
+.moo1 {
     height: 500px;
     width: 100%;
     background-color: red;
 }
-#men1{
+
+#men1 {
     width: 100%;
     filter: brightness(20%);
-    
+
 }
-.head3{
+
+.head3 {
     height: 700px;
     width: 100%;
     position: absolute;
@@ -257,8 +291,9 @@ body{
     /* background-color: black; */
 
 }
-#men2{
-   
+
+#men2 {
+
     color: burlywood;
     font-family: "Permanent Marker", cursive;
     position: absolute;
@@ -267,7 +302,7 @@ body{
     margin-left: 625px;
 }
 
-#men3{
+#men3 {
     color: burlywood;
     font-family: 'Candal', sans-serif;
     position: absolute;
@@ -275,7 +310,8 @@ body{
     margin-top: -548px;
     margin-left: 97px;
 }
-#men4{
+
+#men4 {
     color: burlywood;
     font-size: 100%;
     position: absolute;
@@ -283,21 +319,24 @@ body{
     margin-top: -449px;
     margin-left: 21px;
 }
-#vid2{
+
+#vid2 {
     height: 600px;
     width: 100%;
     zoom: 159%;
 }
-.vid1{
+
+.vid1 {
     width: 100%;
     position: absolute;
     height: 600px;
     margin-top: 2003px;
     background-color: burlywood;
     filter: brightness(70%);
-    
+
 }
-.foot1{
+
+.foot1 {
     background-color: rgb(24, 1, 1);
     width: 100%;
     height: 250px;
@@ -306,95 +345,107 @@ body{
     margin-left: 0%;
     color: white;
 }
-#foot1{
+
+#foot1 {
     color: white;
     font-size: 200%;
     margin-left: 60px;
 }
-#foot2{
-    color: white;
-    font-size: 100%;
-    margin-left: 60px;
-}
-#foot3{
-    color: white;
-    font-size: 100%;
-    margin-left: 60px;
-}
-#foot4{
+
+#foot2 {
     color: white;
     font-size: 100%;
     margin-left: 60px;
 }
 
-#foot5{
+#foot3 {
+    color: white;
+    font-size: 100%;
+    margin-left: 60px;
+}
+
+#foot4 {
+    color: white;
+    font-size: 100%;
+    margin-left: 60px;
+}
+
+#foot5 {
     color: white;
     font-size: 200%;
     margin-left: 287px;
     margin-top: -182px;
 }
-#foot6{
+
+#foot6 {
     color: white;
     font-size: 100%;
     margin-left: 287px;
     margin-top: -150px;
 }
-#foot7{
-    color: white;
-    font-size: 100%;
-    margin-left: 287px;
-}
-#foot8{
+
+#foot7 {
     color: white;
     font-size: 100%;
     margin-left: 287px;
 }
 
-#foot9{
+#foot8 {
+    color: white;
+    font-size: 100%;
+    margin-left: 287px;
+}
+
+#foot9 {
     color: white;
     font-size: 200%;
     margin-left: 490px;
     margin-top: -182px;
 }
-#foot10{
+
+#foot10 {
     color: white;
     font-size: 100%;
     margin-left: 490px;
     margin-top: -150px;
 }
-#foot11{
+
+#foot11 {
     color: white;
     font-size: 100%;
     margin-left: 490px;
 }
 
-#foot12{
+#foot12 {
     color: white;
     font-size: 200%;
     margin-left: 704px;
     margin-top: -143px;
 }
 
-#foot13{
+#foot13 {
     color: white;
     font-size: 100%;
     margin-left: 704px;
     margin-top: -150px;
 }
-#foot14{
+
+#foot14 {
     color: white;
     font-size: 100%;
     margin-left: 704px;
 }
-#footimg{
+
+#footimg {
     width: 100%;
     height: 400px;
 }
-.kit1{
+
+.kit1 {
     background-color: rgb(24, 1, 1);
     color: white;
     position: absolute;
     margin-top: 175%;
     margin-left: 85%;
-    font-size:xx-large;
+    font-size: xx-large;
 }
